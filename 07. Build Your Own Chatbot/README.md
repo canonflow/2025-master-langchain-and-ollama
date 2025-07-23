@@ -3,6 +3,7 @@
 A lightweight chatbot powered by LLMs with memory capabilities using Langchain and an interactive user interface built with Streamlit.
 
 ### Example Screenshot
+![Simple Chatbot UI](https://github.com/canonflow/2025-master-langchain-and-ollama/blob/main/ASSETS/chatbot-ui-1.png?raw=true)
 
 ## 🚀 Features
 - **Conversational Memory**: The bot remembers previous interactions per session.
